@@ -1,0 +1,68 @@
+[
+  {
+    "query": "Zahnarzt Berlin Mitte",
+    "country": "DE",
+    "position": 1,
+    "name": "Torhaus - Ihre Zahnärzte in Berlin Mitte",
+    "category": "Zahnarzt",
+    "categories": [
+      "Zahnarzt"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 237,
+    "address": "Robert-Koch-Platz 11, 10115 Berlin",
+    "phone": "+1 555 0100",
+    "website": "https://www.zahnarzt-torhaus.de/",
+    "openingStatus": "Geschlossen · Öffnet Mo um 08:00",
+    "latitude": 52.528409,
+    "longitude": 13.378451,
+    "placeId": "ChIJ--eWx5RRqEcRdw6wJaph-Ig",
+    "cid": "9869745966787071607",
+    "kgmid": "/g/113jfd1w9",
+    "googleMapsUrl": "https://www.google.com/maps?cid=9869745966787071607"
+  },
+  {
+    "query": "Zahnarzt Berlin Mitte",
+    "country": "DE",
+    "position": 2,
+    "name": "Zahnarzt Berlin-Mitte Dr. Sam Blum und Catia Santos",
+    "category": "Zahnarzt",
+    "categories": [
+      "Zahnarzt"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 238,
+    "address": "Chausseestraße 22, 10115 Berlin",
+    "phone": "+1 555 0100",
+    "website": "https://www.zahnarzt-berlin-mitte-zahnundart.de/",
+    "openingStatus": "Geschlossen · Öffnet Mo um 08:00",
+    "latitude": 52.530813,
+    "longitude": 13.383004,
+    "placeId": "ChIJNXAs7OxRqEcRr4SC2oe8UiQ",
+    "cid": "2617361625128273071",
+    "kgmid": "/g/1tdwzkt1",
+    "googleMapsUrl": "https://www.google.com/maps?cid=2617361625128273071"
+  },
+  {
+    "query": "Zahnarzt Berlin Mitte",
+    "country": "DE",
+    "position": 3,
+    "name": "FAMDENTAL - Zahnarzt Berlin Mitte",
+    "category": "Zahnarzt",
+    "categories": [
+      "Zahnarzt"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 150,
+    "address": "Weydingerstraße 18, 10178 Berlin",
+    "phone": "+1 555 0100",
+    "website": "https://famdental.de/",
+    "openingStatus": "Geschlossen · Öffnet Mo um 12:00",
+    "latitude": 52.526777,
+    "longitude": 13.414088,
+    "placeId": "ChIJoZvr5H1PqEcRV1Lz6cmXp34",
+    "cid": "9126430063358857815",
+    "kgmid": "/g/11mq2tqmcc",
+    "googleMapsUrl": "https://www.google.com/maps?cid=9126430063358857815"
+  }
+]

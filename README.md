@@ -55,11 +55,11 @@ Real rows from a recent run, with any contact details masked. Full sample: [samp
       "Dentist"
     ],
     "rating": 4.9,
-    "reviewsCount": 916,
+    "reviewsCount": 924,
     "address": "1700 S 1st St, Austin, TX 78704",
     "phone": "(+1 555 0100",
     "website": "https://www.atxfamilydental.com/",
-    "openingStatus": "Closed · Opens 8 AM",
+    "openingStatus": "Closed · Opens 8 AM Mon",
     "latitude": 30.248223,
     "longitude": -97.75597,
     "placeId": "ChIJb5gBC-u0RIYRHkntaUcdJGs",

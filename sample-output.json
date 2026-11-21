@@ -9,11 +9,11 @@
       "Dentist"
     ],
     "rating": 4.9,
-    "reviewsCount": 916,
+    "reviewsCount": 924,
     "address": "1700 S 1st St, Austin, TX 78704",
     "phone": "(+1 555 0100",
     "website": "https://www.atxfamilydental.com/",
-    "openingStatus": "Closed · Opens 8 AM",
+    "openingStatus": "Closed · Opens 8 AM Mon",
     "latitude": 30.248223,
     "longitude": -97.75597,
     "placeId": "ChIJb5gBC-u0RIYRHkntaUcdJGs",
@@ -47,22 +47,22 @@
     "query": "dentist in Austin TX",
     "country": "US",
     "position": 3,
-    "name": "Tech Ridge Dental",
+    "name": "North Austin Dentistry",
     "category": "Dentist",
     "categories": [
       "Dentist"
     ],
-    "rating": 5,
-    "reviewsCount": 1190,
-    "address": "12400 N Interstate Hwy 35 Ste A131, Austin, TX 78753",
+    "rating": 4.9,
+    "reviewsCount": 751,
+    "address": "6850 Austin Center Blvd #310, Austin, TX 78731",
     "phone": "(+1 555 0100",
-    "website": "http://www.techridgedental.com/",
-    "openingStatus": "Closed · Opens 7:30 AM",
-    "latitude": 30.404356,
-    "longitude": -97.67598,
-    "placeId": "ChIJg6Z3MsjORIYRZh2Pk4RntBw",
-    "cid": "2068391947978874214",
-    "kgmid": "/g/1xfsp3vb",
-    "googleMapsUrl": "https://www.google.com/maps?cid=2068391947978874214"
+    "website": "https://northaustindentist.com/",
+    "openingStatus": "Closed · Opens 9 AM",
+    "latitude": 30.351764,
+    "longitude": -97.752693,
+    "placeId": "ChIJUfYH2QLLRIYR9a_qLP46DcY",
+    "cid": "14271127657556652021",
+    "kgmid": "/g/1td33flx",
+    "googleMapsUrl": "https://www.google.com/maps?cid=14271127657556652021"
   }
 ]
